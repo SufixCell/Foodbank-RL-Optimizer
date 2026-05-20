@@ -1,0 +1,9 @@
+numpy
+pandas
+matplotlib
+torch
+gymnasium
+streamlit
+plotly
+python-docx
+python-pptx
